@@ -186,6 +186,8 @@ function loadTasks() {
   });
 }
 ```
+<img width="960" height="630" alt="Image" src="https://github.com/user-attachments/assets/d73f798f-d939-4777-abe4-4757d4ba1e41" />
+<img width="995" height="608" alt="Image" src="https://github.com/user-attachments/assets/05dca2c1-9c5f-4cc6-9445-1a401371457c" />
 
 ---
 
